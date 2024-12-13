@@ -7,7 +7,7 @@ Web Developer
 It all started with HTML, CSS, and JavaScript, then PHP, MySQL, WordPress, Laravel, ReactJS, and still exploring the big world of coding frameworks/libraries/languages/stacks.
 
 * 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio at [Portfolio Website](http://calvintandika.netlify.app)
+* 🖥️  See my portfolio at [Portfolio Website](http://calvintandika.vercel.app)
 * ✉️  You can contact me at [calvintandikaa68@gmail.com](mailto:calvintandikaa68@gmail.com)
 * 🤝  I'm open to collaborating on any project that suits my ability
 * ⚡  I got a bit of knowledge in some creative apps such as Photoshop, Figma, Premiere Pro, Final Cut.
